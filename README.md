@@ -1,2 +1,5 @@
-# MultiProject-Dependency-Injection-Example
-Using Dependency Injection in Multiple .NET Core Projects
+# MultiProject Dependency Injection Example
+Using dependency injection in multiple .NET Core projects
+
+## Requirement
+- .NET 5
