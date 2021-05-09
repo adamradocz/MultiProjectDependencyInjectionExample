@@ -2,4 +2,4 @@
 Using dependency injection in multiple .NET Core projects
 
 ## Requirement
-- .NET 5
+- [.NET 5](https://dotnet.microsoft.com/download/dotnet/)
