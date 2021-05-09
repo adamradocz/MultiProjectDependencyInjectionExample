@@ -17,6 +17,8 @@ namespace ClientApp
 
             var greeterService = _serviceProvider.GetRequiredService<IGreeterService>();
             Console.WriteLine(greeterService.Greet());
+
+            Console.WriteLine("Push a key to exit...");
             Console.ReadLine();
         }
 
